@@ -43,3 +43,9 @@ Operando con desktop
 ![Cambios_realizados](image.png)
 
 La original esta sin el check y los cambios con el check
+
+Sin embargo no se va a notar el cambio en la github.com, en la siguiente captura
+
+![como_se_aprecia](image-1.png)
+
+Entonces procedemos con "CTRL+P" para pushearlo a web desde la app desktop de github.
